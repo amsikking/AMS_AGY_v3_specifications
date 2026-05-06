@@ -18,7 +18,7 @@ Optical and mechanical specifications for the AMS-AGY v3 objective (a.k.a Empres
 |FOV (bevel)             |250 or 900 μm      |mechanically limited field of view diameter (1 direction only)  |
 |BFP ∅                   |14.25 mm           |back focal plane diameter                                       |
 |Glass tip               |S-LAH64            |glass type for the tip of the objective                         |
-|T (405/488/561/640) nm  |(?/?/?/?) %        |transmittance of a ~1mm diameter laser beam on the optical axis |
+|T (405/488/561/640) nm  |(1/95/84/86) %        |transmittance of a ~2mm diameter laser beam on the optical axis |
 
 ## Mechanical:
 |Specification           |Value              |Description                                                          |
@@ -29,4 +29,4 @@ Optical and mechanical specifications for the AMS-AGY v3 objective (a.k.a Empres
 |Parfocal distance       |100.15 mm          |distance from mounting flange to image plane                         |
 |Total length            |105.15 mm          |the total length of the objective                                    |
 |Max diameter            |37 mm              |the maximum diameter of the objective                                |
-|Mass                    |? g                |the mass of the objective                                            |
+|Mass                    |188 g                |the mass of the objective                                            |
